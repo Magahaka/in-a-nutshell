@@ -1,0 +1,15 @@
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\LanguageBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\LanguageBasics.AssemblyInfoInputs.cache
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\LanguageBasics.AssemblyInfo.cs
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\LanguageBasics.csproj.CoreCompileInputs.cache
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\bin\Debug\net5.0\LanguageBasics.exe
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\bin\Debug\net5.0\LanguageBasics.deps.json
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\bin\Debug\net5.0\LanguageBasics.runtimeconfig.json
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\bin\Debug\net5.0\LanguageBasics.runtimeconfig.dev.json
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\bin\Debug\net5.0\LanguageBasics.dll
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\bin\Debug\net5.0\ref\LanguageBasics.dll
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\bin\Debug\net5.0\LanguageBasics.pdb
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\LanguageBasics.dll
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\ref\LanguageBasics.dll
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\LanguageBasics.pdb
+C:\Users\Magah\source\repos\in-a-nutshell\in-a-nutshell\in-a-nutshell\LanguageBasics\obj\Debug\net5.0\LanguageBasics.genruntimeconfig.cache
