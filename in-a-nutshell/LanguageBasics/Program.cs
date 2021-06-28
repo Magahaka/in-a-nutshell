@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace LanguageBasics
 {
@@ -9,6 +11,15 @@ namespace LanguageBasics
 
         static void Main(string[] args)
         {
+            int minutes = 330;
+            double hours = TimeSpan.FromMinutes(minutes).TotalHours;
+
+            List<int> list = null;
+
+            //bool test = list.Any(e => e == 1);
+
+            bool value = new DateTime(2021, 06, 28, 0, 0, 0).TimeOfDay == TimeSpan.Zero ? true : false;
+
             int @int = 20;
             Console.WriteLine(@int.ToString());
 
@@ -95,7 +106,70 @@ namespace LanguageBasics
             ref string valRef = ref GetValue();
             valRef = "New Value";
             Console.WriteLine(val);
+
+            // null operators
+
+            int? s1 = null;
+            if (s1 == null)
+            {
+                s1 = 1;
+            }
+
+            // change to:
+            s1 = null;
+            s1 ??= 2;
+
+            // switch patterns and expressions
+            int nr = 3;
+            int sum = 0;
+            switch (nr)
+            {
+                case 1:
+                    sum += 25;
+                    break;
+                case 2:
+                    sum += 25;
+                    goto case 1;
+                case 3:
+                    sum += 25;
+                    goto case 2;
+                default:
+                    break;
+            }
+
+            bool TorF = true;
+            switch (TorF)
+            {
+                case bool b when b == true:
+                    Console.WriteLine("True");
+                    break;
+                default:
+                    break;
+            }
+
+            // expressions
+
+            int cardNumber = 2;
+            string cardName = cardNumber switch
+            {
+                13 => "King",
+                12 => "Queen",
+                11 => "Jack",
+                _ => "Pip card"
+            };
+
+            // goto statement
+
+            if (cardNumber == 2)
+            {
+                goto Found;
+            }
+
+            Found:
+                Console.WriteLine("Found the nr. 2 card");
         }
+
+        
 
         static void Optional(int x = 1, int y = 2)
         {
